@@ -9,5 +9,5 @@ Depends:
 
 To execute: 
 
-python 3.6 main.py
+python3.6 main.py
 
